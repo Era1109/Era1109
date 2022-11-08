@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Era
 - 👀 I’m interested In mathematics.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me farehaera5181@gmail.com
 
 <!---
